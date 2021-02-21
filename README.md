@@ -11,9 +11,8 @@
 <br>
 
 ## 2. Team Member
---- 
 
-## Role 🧑🏼‍💻
+### Role 🧑🏼‍💻
 
 <details>
 <summary>이재원 [Team Leader]</summary>
@@ -135,39 +134,6 @@
 
 
 </details>
-
-<details>
-<summary>강희석 [Team Member]</summary>
-
-- #### Position: `Back-End`
-
-- #### Stack: `Node.js`, `Express`, `TypeScript`, `MongoDB`, `Mongoose`, `Nginx`, `Docker`
-
-#### [공통 작업]
-
-- 레퍼런스 조사
-- 디자인
-  - wire-frame
-  - flow-chart
-  - DB Schema
-  - API
-  - DB models using mongoDB and mongoose
-
-#### [서버]
-
-- 메인 MAP 나라 별 페스티별 API
-- 페스티벌 및 아티스트 리스트, 상세 페이지
-- 페스티벌 및 아티스트 좋아요 및 취소 기능
-- 페스티벌 방문 API
-- 사용자 뱃지 획득 기능 API
-- 회원가입 / 로그인 / 로그아웃 / Kakao Oauth 기능
-- 마이페이지
-  - 사용자 정보 요청(토큰) 페이지 및 수정 API
-  - 내가 쓴 글 기능
-
-</details>
-
---- 
 
 ## 3. Project
 
