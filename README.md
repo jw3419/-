@@ -38,8 +38,7 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 **3. 추천 시설 안내:** <br>
 추천한 시설의 경로를 안내한다.
-![그림3](https://user-images.githubusercontent.com/68436925/108620104-0c352980-746d-11eb-8d4e-e1dbe31b1e69.png)
-
+![그림7](https://user-images.githubusercontent.com/68436925/108620176-aac18a80-746d-11eb-86fc-7a66b2b02459.png)
 
 <br>
 
