@@ -25,19 +25,19 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 ### 🎈 Flow Chart
 1. **비행기 편명 입력:** <br>
-탑승마감 시간까지 남은 시간과 게이트 위치정보를 수집한다.
+- 탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
 ![그림1](https://user-images.githubusercontent.com/68436925/108619546-ec9c0200-7468-11eb-931f-50147f41202a.png)
 
 <br>
 
 2. **이용 시설 입력:** <br>
-자신이 이용할 시설을 입력한다.
+- 자신이 이용할 시설을 입력한다.
 ![그림2](https://user-images.githubusercontent.com/68436925/108619578-1e14cd80-7469-11eb-8392-c0687168662c.png)
 
 <br>
 
 3. **추천 시설 안내:** <br>
-추천한 시설의 경로를 안내한다.
+- 추천한 시설의 경로를 안내한다.
 ![그림3](https://user-images.githubusercontent.com/68436925/108619631-7ba91a00-7469-11eb-829b-be8ad9241ea0.png)
 
 
