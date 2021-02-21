@@ -32,7 +32,7 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 **2. 이용 시설 입력:** <br>
 자신이 이용할 시설을 입력한다.
-![그림2](https://user-images.githubusercontent.com/68436925/108619578-1e14cd80-7469-11eb-8392-c0687168662c.png)
+![그림2](https://user-images.githubusercontent.com/68436925/108620138-51f1f200-746d-11eb-915b-dcdd42f7fee5.png)
 
 <br>
 
