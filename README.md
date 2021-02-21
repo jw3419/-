@@ -54,6 +54,8 @@
 
 </details>
 
+<br>
+
 ## 3. Project
 
 ### 🎈 Smart Airport가 무엇인가요?
@@ -88,7 +90,5 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 비행기 탑승 마감 시간이 임박하면, 사용자에게 알림을 보낸다.
 ![그림4](https://user-images.githubusercontent.com/68436925/108620569-494eeb00-7470-11eb-9761-f89b6111dc6b.png)
 
-
-### 🎈 Smart Airport는 이렇게 만들어졌습니다!
 
 
