@@ -23,7 +23,7 @@
 
 #### [데이터 분석]
 
-- 데이터 정의 및 전처리
+- 데이터 정의, 수집, 전처리
 - Content Based 기반의 추천 알고리즘 개발
 </details>
 
@@ -36,9 +36,8 @@
 
 #### [알고리즘 개발]
 
-- 경로안내 알고리즘 개발
-- TSP GA
-- Dijkstra
+- 최단 경로 안내 알고리즘 개발
+- TSP Gijkstra
 </details>
 
 <details>
@@ -49,41 +48,9 @@
 
 - #### Stack: `Flask`, `Bootstrap`
 
-#### [공통 작업]
+#### [Web]
 
-- 레퍼런스 조사
-- 설계
-  - 와이어 프레임
-  - 플로우 차트
-  - DB 스키마
-  - API
-
-#### [클라이언트]
-
-- 프론트엔드 사이드 개발 환경 구축
-  - Typescript & React
-  - ESLint & Prettier
-- Redux-saga 비즈니스 로직 구축
-  - category, userInfo, image upload 등…
-  - map, festival, artist, wish and like 등…
-- Main Page
-  - 반응형 메인 지도 설계 및 구현
-  - 포스터 모달 구현
-- Festival and Artist List Page
-  - 리스트 비즈니스 로직 및 출력
-  - 카테고리 및 필터링, 검색 기능 구현
-  - 반응형 웹 디자인
-- Festival and Artist Detail Page
-  - 디테일 정보 비즈니스 로직 및 출력
-  - 'like' & 'visit' 버튼 기능
-  - 콘텐츠 슬라이더, 비디오 플레이 모달, 타 DB 테이블 연결
-- Fessport Page
-  - 이미지 업로드 및 회원정보 수정
-  - 'Collector visit' 스탬프 구현
-  - 'Badge challenge' 구현
-- Wish List Page
-  - 페스티벌 & 아티스트 ‘like’ 리스트 출력
-
+- Flask, Bootstrap을 이용한 클라이언트 구현
 
 </details>
 
