@@ -21,8 +21,16 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 인공지능을 통해 사용자가 선택한 시설과 유사한 시설들을 추천하여,<br>
 인천공항내에 다양한 시설들을 폭 넓게 이용할 수 있도록 도움을 주는 웹 어플리케이션입니다.<br>
 
+<br>
 
-### 🎈Fessport는 이렇게 만들어졌습니다!
+### 🎈 Flow Chart
+#### 사용자 편 명 입력: 탑승마감 시간까지 남은 시간과 게이트 위치정보를 수집한다.
+![그림1](https://user-images.githubusercontent.com/68436925/108619374-c033b600-7467-11eb-8908-69d5884cd205.png)
+![그림2](https://user-images.githubusercontent.com/68436925/108619377-cb86e180-7467-11eb-8e92-27700758c77f.png)
+![그림3](https://user-images.githubusercontent.com/68436925/108619378-ccb80e80-7467-11eb-87da-0640196c9120.png)
+
+
+### 🎈 Smart Airport는 이렇게 만들어졌습니다!
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69a872b4-a6d6-4114-88a3-82459c2c23a0/_2021-02-19__2.31.10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210219T053136Z&X-Amz-Expires=86400&X-Amz-Signature=5b14fbd625bc85bcc6666123d5412c7cef4a2e2e8218063beb581c4dde81d558&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-02-19__2.31.10.png%22)
 
