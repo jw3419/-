@@ -24,25 +24,25 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 <br>
 
 ### 🎈 Flow Chart
-1. **비행기 편명 입력:** <br>
+**1. 비행기 편명 입력:** <br>
 탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
 ![그림1](https://user-images.githubusercontent.com/68436925/108619546-ec9c0200-7468-11eb-931f-50147f41202a.png)
 
 <br>
 
-2. **이용 시설 입력:** <br>
+**2. 이용 시설 입력:** <br>
 자신이 이용할 시설을 입력한다.
 ![그림2](https://user-images.githubusercontent.com/68436925/108619578-1e14cd80-7469-11eb-8392-c0687168662c.png)
 
 <br>
 
-3. **추천 시설 안내:** <br>
+**3. 추천 시설 안내:** <br>
 추천한 시설의 경로를 안내한다.
 ![그림3](https://user-images.githubusercontent.com/68436925/108619631-7ba91a00-7469-11eb-829b-be8ad9241ea0.png)
 
 <br>
 
-4. **탑승 알림:** <br>
+**4. 탑승 알림:** <br>
 비행기 탑승 마감 시간이 임박하면, 사용자에게 알림을 보낸다.
 ![그림4](https://user-images.githubusercontent.com/68436925/108619713-ef4b2700-7469-11eb-85f1-71b8b324b195.png)
 
@@ -52,6 +52,4 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69a872b4-a6d6-4114-88a3-82459c2c23a0/_2021-02-19__2.31.10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210219T053136Z&X-Amz-Expires=86400&X-Amz-Signature=5b14fbd625bc85bcc6666123d5412c7cef4a2e2e8218063beb581c4dde81d558&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-02-19__2.31.10.png%22)
 
-## Wiki
 
-[Go to see Wiki !](https://github.com/jw3419/Fessport_Server/wiki)
