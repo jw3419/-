@@ -38,7 +38,7 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 **3. 추천 시설 안내:** <br>
 추천한 시설의 경로를 안내한다.
-![그림7](https://user-images.githubusercontent.com/68436925/108620176-aac18a80-746d-11eb-86fc-7a66b2b02459.png)
+![그림3](https://user-images.githubusercontent.com/68436925/108620243-2f140d80-746e-11eb-91f3-15d9ef88d7eb.png)
 
 <br>
 
@@ -49,7 +49,5 @@ Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
 
 
 ### 🎈 Smart Airport는 이렇게 만들어졌습니다!
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69a872b4-a6d6-4114-88a3-82459c2c23a0/_2021-02-19__2.31.10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210219T053136Z&X-Amz-Expires=86400&X-Amz-Signature=5b14fbd625bc85bcc6666123d5412c7cef4a2e2e8218063beb581c4dde81d558&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-02-19__2.31.10.png%22)
 
 
