@@ -12,7 +12,7 @@
 
 ## 2. Team Member
 
-### Role 🧑🏼‍💻
+### 🎈 Role
 
 <details>
 <summary>이재원 [Team Leader]</summary>
@@ -24,78 +24,30 @@
 #### [데이터 분석]
 
 - 데이터 정의 및 전처리
-- 데이터 차원 축소
-- 
-
-#### [서버 & 배포]
-
-- API 개발
-  - 게시판과 댓글 생성, 읽기, 수정, 삭제
-  - 페스티벌 참석자 명단 생성, 읽기, 삭제
-  - 페스티벌 카테고리 렌더링
-  - Google Oauth
-- AWS EC2 상의 공동 작업 공간 : Jupyter Notebook 환경 구축
-- Nginx 프록시 서버 환경 설정
-- Docker를 사용하여 EC2에 배포
-- 프록시 서버와 도커 컨테이너 연결
-
-<br></br>
-
+- Content Based 기반의 추천 알고리즘 개발
 </details>
 
 <details>
-<summary>박정환 [Team Member]</summary>
+<summary>최용진 [Team Member]</summary>
 
-- #### Position: `Front-End`
+- #### Position: `알고리즘 개발`
 
-- #### Stack: `React`, `React-Hooks`, `Redux`, `Redux-saga`, `TypeScript`, `Styled-components`
+- #### Stack: `Python`
 
-#### [공통 작업]
+#### [알고리즘 개발]
 
-- 레퍼런스 조사
-- Design
-  - 와이어-프레임
-  - 플로우차트
-  - DB 스키마
-  - API
-
-#### [클라이언트]
-- Fessport CI
-- Deployment
-  - HTTPS 환경 배포 (AWS S3 & Route53 & Cloudfront)
-- Navigation bar 
-  - 반응형 디자인 및 슬라이드 버튼 구현
-- 로그인, 회원가입
-  - Modal 창을 통해 구현
-  - React-spring - 모달 애니메이션
-- 동행 페이지
-  - 페스티벌 별 게시판 필터링
-  - Companion (동행)
-  - 코멘트 기능
-  - 반응형 디자인 
-- 사고 팔기 페이지 
-  - 페스티벌 별 게시판 필터링
-  - 코멘트  기능
-  - 반응형 디자인 
-- 리뷰 페이지
-  - 키보드 이벤트 - 모달창내에 이미지 선택
-  - 반응형 디자인 
-- 포스팅 페이지
-  - 페스티벌 별 카테고리 선택 작성
-- Redux-saga Business logic 
-  - 게시판 saga
-  - 코멘트 saga
-  - Sign in & out & up saga
-  - 동행 saga
-
+- 경로안내 알고리즘 개발
+- TSP GA
+- Dijkstra
 </details>
 
 <details>
-<summary>이종혁 [Team Member]</summary>
+  
+<summary>박진영 [Team Member]</summary>
 
-- #### Position: `Front-End`
+- #### Position: `Web`
 
-- #### Stack: `React`, `React-Hooks`, `Redux`, `Redux-saga`, `TypeScript`, `Styled-components`
+- #### Stack: `Flask`, `Bootstrap`
 
 #### [공통 작업]
 
